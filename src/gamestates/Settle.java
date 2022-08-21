@@ -28,7 +28,7 @@ public class Settle extends State implements StateMethods{
 	private BufferedImage[] resultLvlImg = new BufferedImage[4];
 	private Button[] buttons = new Button[3];
 	
-	private int resultLvl = 0;
+	private int resultLvl = -1;
 	private int LvlWidth, LvlHeight;
 	private int score = game.rhyGame.getScore();
 	
@@ -64,9 +64,9 @@ public class Settle extends State implements StateMethods{
 		score = game.rhyGame.getScore();
 		
 		if(score > 3500) resultLvl = 3;
-		else if(score >= 2500) resultLvl = 2;
+		else if(score >= 2500) resultLvl = 0;
 		else if(score >= 1500) resultLvl = 1;
-		else resultLvl = 0;
+		else resultLvl = 2;
 		
 	}
 
