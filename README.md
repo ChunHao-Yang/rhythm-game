@@ -37,7 +37,7 @@
 
 - type **ENTER** to get the beat in nanotime
 - type **SPACE** to get the result array
-- there will be a little error in the first beat, try get the first beat with function **getFirstBeat** in class **RhyGameThread**. To trigger this function, you can type **ENTER** in playing state
+- there will be little error in the first beat, try get the first beat with function **getFirstBeat** in class **RhyGameThread**. To trigger this function, you can type **ENTER** in playing state
 
 ## Judgement
 
