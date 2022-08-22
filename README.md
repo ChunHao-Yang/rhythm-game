@@ -2,10 +2,10 @@
 
 ## Overview
 
-Made by: ChunHao
-Last Update: 8/21
-Language: Java
-Editor: Eclipse
+- Made by: ChunHao
+- Last Update: 8/21
+- Language: Java
+- Editor: Eclipse
 
 ## Description
 
@@ -41,7 +41,7 @@ you can set the game on the menubar, there are two setting:
 
 ## Judgement
 
-there are four level for aAccuracy:
+there are four level for accuracy:
 - **Bad**: 0 point
 - **Good**: 4 point
 - **Great**: 7 point
@@ -58,4 +58,5 @@ there are four level for your result score:
 - the reference of pic is in the project
 - the project I refer to:
 > [KaarinGaming/PlatformerTutorial](https://github.com/KaarinGaming/PlatformerTutorial)
+
 > [How To Make Java Rhythm Game](https://blog.naver.com/ndb796/220997028385)
