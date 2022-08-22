@@ -9,7 +9,7 @@
 
 ## Description
 
-there are three different screens:
+- there are three different screens:
 1. **HOME**: the main screen
 2. **PLAYING**: play the game!!
 3. **SETTLE**: you're score
@@ -17,7 +17,7 @@ there are three different screens:
 ![](https://i.imgur.com/owYyw9i.png)
 
 
-you can set the game on the menubar, there are two setting:
+- you can set the game on the menubar, there are two setting:
 1. **Volume**: change the volume of music and soundeffect
 2. **Control**: change your keyboard control
 
