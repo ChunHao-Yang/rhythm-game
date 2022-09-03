@@ -38,6 +38,7 @@
 - type **ENTER** to get the beat in nanotime
 - type **SPACE** to get the result array
 - there will be little error in the first beat, try get the first beat with function **getFirstBeat** in class **RhyGameThread**. To trigger this function, you can type **ENTER** in playing state
+- substitue the array from GetBeat fot the array in **sleep_nano** in class **Pipoint** in pakage **notes** with the array
 
 ## Judgement
 
